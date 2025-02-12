@@ -26,52 +26,6 @@
 *   **Ferramentas:** Node.js, REST, Git, GitHub, WebService, WebSocket, VMWare, Virtualização, Delphi, Cypress, Swagger
 *   **Outros:** Api, WebService, WebSocket
 
-## 🎓Formação Acadêmica, cursos e eventos 
-
-* [Repositório](https://drive.google.com/drive/folders/1dFcyyA1dNIoBrmbFs6IzWfiw6LLwBsmh?usp=drive_link)
-  - 2009 - 🥇 Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade de CEUMA.
-  - 2014 - Certificado FLISOL 2014
-  - 2019 - Certificado Google DevFest 2019
-  - 2021 - Kubernets
-  - 2022 - Certificado Webinar - Tendências e Aplicações de QA
-  - 2022 - CERTIFICADO WORKSHOP Lean Emocional
-  - 2022 - Congresso de TI Pocket, Comunicações Unificadas
-  - 2022 - Jira e Concluence
-  - 2022 - Learning - Certificado - Como Influenciar as Pessoas
-  - 2022 - Learning - Certificado - Construindo Confiança
-  - 2022 - Learning - Certificado - Descubra o Microsoft Project
-  - 2022 - Learning - Certificado - Fundamentos de Gestão de Projetos, Solicitações de Mudança
-  - 2022 - Learning - Certificado - Liderando Mudanças
-  - 2022 - Learning - Certificado - Técnicas de Comunicação Interpessoal
-  - 2022 - Transfer English - A1 - Transfer Experience - Inglês Operacional
-  - 2023 - Agile Scrum Master(ASM®) - SkillUP
-  - 2023 - Alternative Agile
-  - 2023 - ArduinoDay - Crescer Engeasier
-  - 2023 - Desafios de React JS - Entrevistas e testes técnicos
-  - 2023 - Espanhol - A2
-  - 2023 - Evento DEV VINCIT
-  - 2023 - Evento Edição Especial 3º HACKER SUMMIT 2023
-  - 2023 - Explorando a sinergia entre RPA e Chat GPT
-  - 2023 - Fraudes Eletrônicas, Crime e Investigação - VINCIT University
-  - 2023 - Gestão de Tarefas e Produtividade com Ferramentas Microsoft
-  - 2023 - LPIC-010-160 - Linux Essentials
-  - 2023 - Não mude a qualidade dos processos. Mude a qualidade da cultura envolvida nos processos
-  - 2023 - Proteção de Dados Pessoais no Desenvolvimento de Tecnologias
-  - 2023 - QA Culture
-  - 2023 - Selenium Automação de Milhões
-  - 2023 - Transfer English - B1 - Inglês Interacional - Think and Speak
-  - 2024 - Administración de sistemas y servicios de infraestructura de TI
-  - 2024 - Aspectos básicos de la asistencia técnica
-  - 2024 - BDD eXperience - Udemy
-  - 2024 - Formação Desenvolvedor Java
-  - 2024 - Laravel 11
-  - 2024 - Los bits y bytes de las redes informáticas
-  - 2024 - Seguridad informática defensa contra las artes oscuras digitales
-  - 2024 - Sistemas operativos y tú Convertirse en un usuario avanzado
-  - 2024 - Soporte de Tecnologías de la Información de Google
-  - 2024 - TypeScript - 20 horas - Certificado RL System
-  - 2025 - Tecnicas Avançadas de Delphi
-
 ## 💻 Projetos publicos em Destaque
 
   *   [**Deploy program project:**](https://github.com/luis-portfolio/Deploy) Projeto em Delphi/Alexandria para otimização de recursos de mídia e compressão de binários 32/64 bits
@@ -141,6 +95,52 @@
   <a href="https://www.embarcadero.com/products/delphi" target="_blank"><img src="https://img.icons8.com/color/48/000000/delphi.png" alt="Delphi"></a>
   <a href="https://www.cypress.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Cypress"></a>
   <a href="https://swagger.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/swagger.png" alt="Swagger"></a>
+
+## 🎓Formação Acadêmica, cursos e eventos 
+
+* [Repositório](https://drive.google.com/drive/folders/1dFcyyA1dNIoBrmbFs6IzWfiw6LLwBsmh?usp=drive_link)
+  - 2009 - 🥇 Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas pela Universidade de CEUMA.
+  - 2014 - Certificado FLISOL 2014
+  - 2019 - Certificado Google DevFest 2019
+  - 2021 - Kubernets
+  - 2022 - Certificado Webinar - Tendências e Aplicações de QA
+  - 2022 - CERTIFICADO WORKSHOP Lean Emocional
+  - 2022 - Congresso de TI Pocket, Comunicações Unificadas
+  - 2022 - Jira e Concluence
+  - 2022 - Learning - Certificado - Como Influenciar as Pessoas
+  - 2022 - Learning - Certificado - Construindo Confiança
+  - 2022 - Learning - Certificado - Descubra o Microsoft Project
+  - 2022 - Learning - Certificado - Fundamentos de Gestão de Projetos, Solicitações de Mudança
+  - 2022 - Learning - Certificado - Liderando Mudanças
+  - 2022 - Learning - Certificado - Técnicas de Comunicação Interpessoal
+  - 2022 - Transfer English - A1 - Transfer Experience - Inglês Operacional
+  - 2023 - Agile Scrum Master(ASM®) - SkillUP
+  - 2023 - Alternative Agile
+  - 2023 - ArduinoDay - Crescer Engeasier
+  - 2023 - Desafios de React JS - Entrevistas e testes técnicos
+  - 2023 - Espanhol - A2
+  - 2023 - Evento DEV VINCIT
+  - 2023 - Evento Edição Especial 3º HACKER SUMMIT 2023
+  - 2023 - Explorando a sinergia entre RPA e Chat GPT
+  - 2023 - Fraudes Eletrônicas, Crime e Investigação - VINCIT University
+  - 2023 - Gestão de Tarefas e Produtividade com Ferramentas Microsoft
+  - 2023 - LPIC-010-160 - Linux Essentials
+  - 2023 - Não mude a qualidade dos processos. Mude a qualidade da cultura envolvida nos processos
+  - 2023 - Proteção de Dados Pessoais no Desenvolvimento de Tecnologias
+  - 2023 - QA Culture
+  - 2023 - Selenium Automação de Milhões
+  - 2023 - Transfer English - B1 - Inglês Interacional - Think and Speak
+  - 2024 - Administración de sistemas y servicios de infraestructura de TI
+  - 2024 - Aspectos básicos de la asistencia técnica
+  - 2024 - BDD eXperience - Udemy
+  - 2024 - Formação Desenvolvedor Java
+  - 2024 - Laravel 11
+  - 2024 - Los bits y bytes de las redes informáticas
+  - 2024 - Seguridad informática defensa contra las artes oscuras digitales
+  - 2024 - Sistemas operativos y tú Convertirse en un usuario avanzado
+  - 2024 - Soporte de Tecnologías de la Información de Google
+  - 2024 - TypeScript - 20 horas - Certificado RL System
+  - 2025 - Tecnicas Avançadas de Delphi
 
 ## 🌱 Um pouco da minha história
 
