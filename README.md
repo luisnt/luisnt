@@ -46,7 +46,7 @@
 ## 🤓 Languages and Tools:
 
 <a target="_blank" href="https://adonisjs.com/"><img src="./Icons/adonis.png" alt="AdonisJS" height="48" width="48"></a>
-<a target="_blank" href="https://angular.io"><img src="./Icons/angular.png" alt="Angular" height="48" width="48"></a>
+<a target="_blank" href="https://angular.io"><img src="./Icons/angularjs.png" alt="Angular" height="48" width="48"></a>
 <a target="_blank" href="https://getbootstrap.com"><img src="./Icons/bootstrap.png" alt="Bootstrap Css" height="48" width="48"></a>
 <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./Icons/css3.png" alt="CSS" height="48" width="48"></a>
 <a target="_blank" href="https://www.cypress.io/"><img src="./Icons/cypress.png" alt="Cypress" height="48" width="48"></a>
@@ -67,7 +67,7 @@
 <a target="_blank" href="https://www.microsoft.com/en-us/sql-server"><img src="./Icons/sqlserver.png" alt="Microsoft SQL Server" height="48" width="48"></a>
 <a target="_blank" href="https://www.mongodb.com/"><img src="./Icons/mongodb.png" alt="MongoDB" height="48" width="48"></a>
 <a target="_blank" href="https://www.mysql.com/"><img src="./Icons/mysql.png" alt="MySql" height="48" width="48"></a>
-<a target="_blank" href="https://nextjs.org/"><img src="./Icons/nextjs.png" alt="Next.js" height="48" width="48"></a>
+<a target="_blank" href="https://nextjs.org/"><img src="./Icons/next.png" alt="Next.js" height="48" width="48"></a>
 <a target="_blank" href="https://nodejs.org/"><img src="./Icons/nodejs.png" alt="Node.js" height="48" width="48"></a>
 <a target="_blank" href="https://www.php.net/"><img src="./Icons/php.png" alt="PHP" height="48" width="48"></a>
 <a target="_blank" href="https://pt.wikipedia.org/wiki/PL/SQL"><img src="./Icons/plsql.png" alt="PL/SQL" height="48" width="48"></a>
