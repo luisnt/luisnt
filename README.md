@@ -1,13 +1,19 @@
-# Hi there 👋
+## 👋 Hi there, my name is `Luis Caldas` <!-- ### `💻Senior Software Engineer` • `🚀Troubleshooter` • `♻️ Focused on being better today than I was yesterday` !-->
+![💻 Senior Software Engineer](https://img.shields.io/badge/💻-Senior%20Software%20Engineer-0A66C2?logoColor=white&labelColor=ffffff&style=plastic) 
+![🚀 Troubleshooter](https://img.shields.io/badge/🚀-Troubleshooter-0A66C2?logo=rockets&logoColor=white&labelColor=ffffff&style=plastic) 
+![♻ Focused on being better today than I was yesterday](https://img.shields.io/badge/♻-Focused on being better today than I was yesterday-2ECC71?logo=recycle&logoColor=white&labelColor=ffffff&style=plastic)
 
-## `Hello World!!!` My name is `Luis Caldas`
-### `💻Senior Software Engineer` | `🚀Troubleshooter` | `♻️Focused on being better today than I was yesterday`
+
+### 📫 How to contact me:<!-- ### [luisnt.eu@gmail.com](mailto:luisnt.eu@gmail.com)  |  [WhatsApp](https://wa.me/+5598981112233)  |  [Telegram](https://t.me/luisnt)  |  [LinkedIn](https://www.linkedin.com/in/luisnt)  |  📞 +55 (98) 9 8111 2233-->
+
+[![LinkedIn](https://img.shields.io/badge/in-luisnt-white?logo=linkedin&logoColor=white&color=white&labelColor=0077B5&style=plastic)](https://linkedin.com/in/luisnt) 
+[![Gmail](https://img.shields.io/badge/luisnt.eu-white?logo=gmail&logoColor=fff&color=ffffff&labelColor=D14836&style=plastic)](mailto:luisnt.eu@gmail.com) 
+[![Telegram](https://img.shields.io/badge/luisnt-white?logo=telegram&logoColor=fff&color=fff&labelColor=26A5E4&style=plastic)](https://t.me/luisnt) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-white?logo=whatsapp&logoColor=fff&color=fff&labelColor=25D366&style=plastic)](https://wa.me/5598981112233) 
+[![GitHub](https://img.shields.io/badge/Public Portfolio-white?logo=github&logoColor=fff&color=fff&labelColor=000&style=plastic)](https://github.com/luis-portfolio/Index)
 
 
-## 📫 How to contact me:
-### [luisnt.eu@gmail.com](mailto:luisnt.eu@gmail.com)  |  [+55 98 9 8111 2233](tel://+5598981112233)  |  [WhatsApp](https://wa.me/+5598981112233)  |  [Telegram](https://t.me/luisnt)  |  [LinkedIn](https://www.linkedin.com/in/luisnt) 
-
-## 😁 About me:
+### 😁 About me:
 - 🔭 I currently work with systems integration with Delphi/Alexandria, Node.js, React, PHP, Laravel and the main commercial databases, studying new technologies to improve my skills in architecture, analysis, development and software testing.
 - 👯 I am looking to collaborate on: Open source projects that involve the technologies I master and that challenge me to learn more every day.
 - 🤔 I am looking for help with: Complex challenges in systems architecture and integration of new technologies.
@@ -18,7 +24,7 @@
   - Creation of REST APIs with Delphi, Laravel, Node.js
   - Automation of tasks with Cypress, Robot and Selenium
 
-## 🤖 Skills and Technologies
+### 🤖 Skills and Technologies
 
 * **Languages:** Delphi/IDL/Pascal, PHP, JavaScript/EcmaScript/ES6, TypeScript, HTML, CSS, SQL, Pl/Sql, C#, Java, ...
 * **Frameworks/Libraries:** React, Next.js, AdonisJs, Express, Laravel, AdonisJs, Express, NextJs,
@@ -26,7 +32,7 @@
 * **Tools:** Node.js, REST, Git, GitHub, WebService, WebSocket, VMWare, Virtualization, Delphi, Cypress, Swagger
 * **Others:** Api, WebService, WebSocket
 
-## 💻 Featured Public Projects
+### 💻 Featured Public Projects
 
 * [**Deploy program project:**](https://github.com/luis-portfolio/Deploy) Project in Delphi/Alexandria for media resource optimization and 32/64-bit binary compression
 * [**Node JS API:**](https://github.com/luis-portfolio/Node.JS-Server-with-Express) APIs for frontend development (web, desktop and mobile)
@@ -36,14 +42,14 @@
 * [**Chronometer:**](https://github.com/luis-portfolio/Chronometer) Built with Vanilla JavaScript, HTML5 and CSS3
 * [**REST API with C# & Swagger:**](https://github.com/luis-portfolio/Api-REST-C-Sharp) REST API in C# with Swagger documentation
 
-## 💼 Professional Experience
+### 💼 Professional Experience
 
 * **Senior Software Engineer at Proinddy Business Automation (2007 – Current):** Consulting, architecture, analysis, development and software testing
 * **Software Engineer at SET São Luis (2009 – 2023):** Management, support and software development
 * **Professor at CEUMA University (2008 – 2009):** Teaching courses and workshops
 * **Systems Analyst at Faculdade Atenas Maranhense (2005 – 2007):** Application development and server maintenance
 
-## 🤓 Languages and Tools:
+### 🤓 Languages and Tools:
 
 <a target="_blank" href="https://adonisjs.com/"><img src="./Icons/adonis.png" alt="AdonisJS" height="48" width="48"></a>
 <a target="_blank" href="https://angular.io"><img src="./Icons/angularjs.png" alt="Angular" height="48" width="48"></a>
@@ -88,7 +94,7 @@
 <a target="_blank" href="https://vuejs.org/"><img src="./Icons/vuejs.png" alt="Vue.js" height="48" width="48"></a>
 <a target="_blank" href="https://zustand-demo.pmnd.rs"><img src="./Icons/zustand.png" alt="Zustand" height="48" width="48"></a>
 
-## 🎓Academic training, courses and events
+### 🎓Academic training, courses and events
 
 * [Repo](https://drive.google.com/drive/folders/1dFcyyA1dNIoBrmbFs6IzWfiw6LLwBsmh?usp=drive_link)
 - 2009 - 🥇 Higher Education Course in Systems Analysis and Development from CEUMA University with honors.
@@ -134,7 +140,7 @@
 - 2024 - TypeScript - 20 hours - RL System Certificate
 - 2025 - Advanced Delphi Techniques
 
-## 🌱 A little bit of my story
+### 🌱 A little bit of my story
 
    When I was 9 years old, I got an Odsey for Christmas, a video game that competed with the Atari, which had a keyboard on its body and a cartridge with text editing software. That was when my passion for technology was born. When I was around 12 years old, my cousins ​​got a TK85 microcomputer that used the TV as a monitor. To motivate us, my aunt bought the Input collection, where we began studying Basic and Assembly programming. Some time later, my uncle brought a cassette recorder from one of his business trips so that we could record programs, since at the time we didn't have hard drives or other storage units. Some time later, the CP500 was released, with a flexible floppy disk drive and a green screen. Inaccessible for my economic reality at the time
 
