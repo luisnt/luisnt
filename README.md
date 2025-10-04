@@ -10,6 +10,7 @@
 [![Gmail](https://img.shields.io/badge/luisnt.eu-white?logo=gmail&logoColor=fff&color=ffffff&labelColor=D14836&style=plastic)](mailto:luisnt.eu@gmail.com) 
 [![Telegram](https://img.shields.io/badge/luisnt-white?logo=telegram&logoColor=fff&color=fff&labelColor=26A5E4&style=plastic)](https://t.me/luisnt) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-white?logo=whatsapp&logoColor=fff&color=fff&labelColor=25D366&style=plastic)](https://wa.me/5598981112233) 
+[![Phone](https://img.shields.io/badge/+55%20(98)%209%208111%202233-white?logo=googleanalytics&logoColor=fff&color=fff&labelColor=0077B5&style=plastic)](tel:+5598981112233) 
 [![GitHub](https://img.shields.io/badge/Public Portfolio-white?logo=github&logoColor=fff&color=fff&labelColor=000&style=plastic)](https://github.com/luis-portfolio/Index)
 
 
