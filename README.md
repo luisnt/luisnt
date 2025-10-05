@@ -1,162 +1,81 @@
-## 👋 Hi there, my name is `Luis Caldas` <!-- ### `💻Senior Software Engineer` • `🚀Troubleshooter` • `♻️ Focused on being better today than I was yesterday` !-->
-![💻 Senior Software Engineer](https://img.shields.io/badge/💻-Senior%20Software%20Engineer-0A66C2?logoColor=white&labelColor=ffffff&style=plastic) 
-![🚀 Troubleshooter](https://img.shields.io/badge/🚀-Troubleshooter-0A66C2?logo=rockets&logoColor=white&labelColor=ffffff&style=plastic) 
-![♻ Focused on being better today than I was yesterday](https://img.shields.io/badge/♻-Focused on being better today than I was yesterday-2ECC71?logo=recycle&logoColor=white&labelColor=ffffff&style=plastic)
+## 👋 Hi, I'm Luis Caldas
+💻 Senior Software Engineer • 🚀 Systems Integrator • ♻️ Focused on continuous improvement
 
+---
 
-### 📫 How to contact me:<!-- ### [luisnt.eu@gmail.com](mailto:luisnt.eu@gmail.com)  |  [WhatsApp](https://wa.me/+5598981112233)  |  [Telegram](https://t.me/luisnt)  |  [LinkedIn](https://www.linkedin.com/in/luisnt)  |  📞 +55 (98) 9 8111 2233-->
+### 📫 Contact
+[![LinkedIn](https://img.shields.io/badge/in-luisnt-white?logo=linkedin&logoColor=white&color=white&labelColor=0077B5&style=plastic)](https://linkedin.com/in/luisnt)
+[![Gmail](https://img.shields.io/badge/luisnt.eu-white?logo=gmail&logoColor=fff&color=ffffff&labelColor=D14836&style=plastic)](mailto:luisnt.eu@gmail.com)
+[![Telegram](https://img.shields.io/badge/luisnt-white?logo=telegram&logoColor=fff&color=fff&labelColor=26A5E4&style=plastic)](https://t.me/luisnt)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-white?logo=whatsapp&logoColor=fff&color=fff&labelColor=25D366&style=plastic)](https://wa.me/5598981112233)
+[![Portfolio](https://img.shields.io/badge/Public%20Portfolio-white?logo=github&logoColor=fff&color=fff&labelColor=000&style=plastic)](https://github.com/luis-portfolio/Index)
 
-[![LinkedIn](https://img.shields.io/badge/in-luisnt-white?logo=linkedin&logoColor=white&color=white&labelColor=0077B5&style=plastic)](https://linkedin.com/in/luisnt) 
-[![Gmail](https://img.shields.io/badge/luisnt.eu-white?logo=gmail&logoColor=fff&color=ffffff&labelColor=D14836&style=plastic)](mailto:luisnt.eu@gmail.com) 
-[![Telegram](https://img.shields.io/badge/luisnt-white?logo=telegram&logoColor=fff&color=fff&labelColor=26A5E4&style=plastic)](https://t.me/luisnt) 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-white?logo=whatsapp&logoColor=fff&color=fff&labelColor=25D366&style=plastic)](https://wa.me/5598981112233) 
-[![Phone](https://img.shields.io/badge/+55%20(98)%209%208111%202233-white?logo=googleanalytics&logoColor=fff&color=fff&labelColor=0077B5&style=plastic)](tel:+5598981112233) 
-[![GitHub](https://img.shields.io/badge/Public Portfolio-white?logo=github&logoColor=fff&color=fff&labelColor=000&style=plastic)](https://github.com/luis-portfolio/Index)
+---
 
+### 💬 About Me
+I am a software engineer with strong experience in **systems integration**, **backend development**, and **API architecture**.  
+Currently working with **Delphi/Alexandria, Node.js, React, PHP, Laravel, and major commercial databases**.  
+Passionate about designing scalable systems, automating processes, and learning modern technologies that improve performance and reliability.
 
-### 😁 About me:
-- 🔭 I currently work with systems integration with Delphi/Alexandria, Node.js, React, PHP, Laravel and the main commercial databases, studying new technologies to improve my skills in architecture, analysis, development and software testing.
-- 👯 I am looking to collaborate on: Open source projects that involve the technologies I master and that challenge me to learn more every day.
-- 🤔 I am looking for help with: Complex challenges in systems architecture and integration of new technologies.
-- 💬 Ask me about:
-  - Custom software development, Desktop, Web and Mobile with Delphi, Node/Express/Adonis.js, Next.js/React, Android Studio, PWA...
-  - Integration of complex architectures, distributed applications and databases
-  - Optimization of media resources and binary compression
-  - Creation of REST APIs with Delphi, Laravel, Node.js
-  - Automation of tasks with Cypress, Robot and Selenium
+I collaborate on open-source projects and enjoy tackling challenges involving **architecture**, **distributed applications**, and **complex data flows**.
 
-### 🤖 Skills and Technologies
+---
 
-* **Languages:** Delphi/IDL/Pascal, PHP, JavaScript/EcmaScript/ES6, TypeScript, HTML, CSS, SQL, Pl/Sql, C#, Java, ...
-* **Frameworks/Libraries:** React, Next.js, AdonisJs, Express, Laravel, AdonisJs, Express, NextJs,
-* **Databases:** MySQL/MariaDB, PostgreSQL, SQL Server, Sybase/Sql Anyware, Firebird, Interbase, SQLite, Oracle, MongoDB
-* **Tools:** Node.js, REST, Git, GitHub, WebService, WebSocket, VMWare, Virtualization, Delphi, Cypress, Swagger
-* **Others:** Api, WebService, WebSocket
+### 🧠 Skills and Technologies
 
-### 💻 Featured Public Projects
+**Languages:** Delphi, PHP, JavaScript (ES6+), TypeScript, SQL, C#, Java, HTML, CSS  
+**Frameworks:** React, Next.js, Express, AdonisJS, Laravel  
+**Databases:** PostgreSQL, MySQL/MariaDB, SQL Server, Firebird, Oracle, MongoDB  
+**Tools:** Node.js, REST APIs, Git/GitHub, Swagger, Cypress, Docker, VMWare, WebSocket  
+**Testing & Automation:** Cypress, Robot, Selenium  
+**Other Focus Areas:** API design, binary compression, media optimization, virtualization
 
-* [**Deploy program project:**](https://github.com/luis-portfolio/Deploy) Project in Delphi/Alexandria for media resource optimization and 32/64-bit binary compression
-* [**Node JS API:**](https://github.com/luis-portfolio/Node.JS-Server-with-Express) APIs for frontend development (web, desktop and mobile)
-* [**Node JS API (JSON without restrictions):**](https://github.com/luis-portfolio/Api-Node.JS-with-express-to-proxy-url) API to obtain JSON data without access restrictions
-* [**Autofill-Europass-with-Cypress:**](https://github.com/luis-portfolio/Autofill-Europass-with-Cypress) Automation of Europass filling with Cypress
-* [**Backend for uploading images:**](https://github.com/luis-portfolio/backdev) Development backend with support for image uploads
-* [**Chronometer:**](https://github.com/luis-portfolio/Chronometer) Built with Vanilla JavaScript, HTML5 and CSS3
-* [**REST API with C# & Swagger:**](https://github.com/luis-portfolio/Api-REST-C-Sharp) REST API in C# with Swagger documentation
+---
 
 ### 💼 Professional Experience
 
-* **Senior Software Engineer at Proinddy Business Automation (2007 – Current):** Consulting, architecture, analysis, development and software testing
-* **Software Engineer at SET São Luis (2009 – 2023):** Management, support and software development
-* **Professor at CEUMA University (2008 – 2009):** Teaching courses and workshops
-* **Systems Analyst at Faculdade Atenas Maranhense (2005 – 2007):** Application development and server maintenance
+**Senior Software Engineer — Proinddy Business Automation (2007–Present)**  
+Architecture, system integration, backend development, and automated testing.
 
-### 🤓 Languages and Tools:
+**Software Engineer — SET São Luís (2009–2023)**  
+System analysis, support, and enterprise software development.
 
-<a target="_blank" href="https://adonisjs.com/"><img src="./Icons/adonis.png" alt="AdonisJS" height="32" width="32"></a>
-<a target="_blank" href="https://angular.io"><img src="./Icons/angularjs.png" alt="Angular" height="32" width="32"></a>
-<a target="_blank" href="https://getbootstrap.com"><img src="./Icons/bootstrap.png" alt="Bootstrap Css" height="32" width="32"></a>
-<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./Icons/css3.png" alt="CSS" height="32" width="32"></a>
-<a target="_blank" href="https://www.cypress.io/"><img src="./Icons/cypress.png" alt="Cypress" height="32" width="32"></a>
-<a target="_blank" href="https://www.embarcadero.com/products/delphi"><img src="./Icons/delphi.png" alt="Delphi" height="32" width="32"></a>
-<a target="_blank" href="https://www.docker.com/"><img src="./Icons/docker.png" alt="Docker" height="32" width="32"></a>
-<a target="_blank" href="https://expressjs.com/"><img src="./Icons/express.png" alt="Express" height="32" width="32"></a>
-<a target="_blank" href="https://www.figma.com/"><img src="Icons/figma.png" alt="Figma" height="32" width="32"></a>
-<a target="_blank" href="https://firebirdsql.org/"><img src="./Icons/firebird.png" alt="Firebird" height="32" width="32"></a>
-<a target="_blank" href="https://git-scm.com/"><img src="./Icons/git.png" alt="Git SCM" height="32" width="32"></a>
-<a target="_blank" href="https://github.com/"><img src="./Icons/github.png" alt="GitHub" height="32" width="32"></a>
-<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./Icons/html5.png" alt="HTML" height="32" width="32"></a>
-<a target="_blank" href="https://insomnia.rest"><img src="./Icons/insomnia.png" alt="Insomnia" height="32" width="32"></a>
-<a target="_blank" href="https://www.embarcadero.com/products/interbase"><img src="./Icons/interbase.png" alt="Interbase" height="32" width="32"></a>
-<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./Icons/javascript.png" alt="JavaScript" height="32" width="32"></a>
-<a target="_blank" href="https://laravel.com/"><img src="./Icons/laravel.png" alt="Laravel" height="32" width="32"></a>
-<a target="_blank" href="https://www.linux.org/"><img src="./Icons/linux.png" alt="Linux" height="32" width="32"></a>
-<a target="_blank" href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="./Icons/csharp.png" alt="Microsoft C#" height="32" width="32"></a>
-<a target="_blank" href="https://www.microsoft.com/en-us/sql-server"><img src="./Icons/sqlserver.png" alt="Microsoft SQL Server" height="32" width="32"></a>
-<a target="_blank" href="https://www.mongodb.com/"><img src="./Icons/mongodb.png" alt="MongoDB" height="32" width="32"></a>
-<a target="_blank" href="https://www.mysql.com/"><img src="./Icons/mysql.png" alt="MySql" height="32" width="32"></a>
-<a target="_blank" href="https://nextjs.org/"><img src="./Icons/next.png" alt="Next.js" height="32" width="32"></a>
-<a target="_blank" href="https://nodejs.org/"><img src="./Icons/nodejs.png" alt="Node.js" height="32" width="32"></a>
-<a target="_blank" href="https://www.php.net/"><img src="./Icons/php.png" alt="PHP" height="32" width="32"></a>
-<a target="_blank" href="https://pt.wikipedia.org/wiki/PL/SQL"><img src="./Icons/plsql.png" alt="PL/SQL" height="32" width="32"></a>
-<a target="_blank" href="https://www.postgresql.org"><img src="./Icons/postgresql.png" alt="postgresql" height="32" width="32"></a>
-<a target="_blank" href="https://postman.com"><img src="./Icons/postman.png" alt="Postman" height="32" width="32"></a>
-<a target="_blank" href="https://www.rabbitmq.com"><img src="./Icons/rabbitmq.png" alt="rabbitMQ" height="32" width="32"></a>
-<a target="_blank" href="https://react.dev"><img src="./Icons/react.png" alt="React Native" height="32" width="32"></a>
-<a target="_blank" href="https://reactnative.dev/"><img src="./Icons/react-native.png" alt="React Native" height="32" width="32"></a>
-<a target="_blank" href="https://redis.io"><img src="./Icons/redis.png" alt="Redis" height="32" width="32"></a>
-<a target="_blank" href="https://redux.js.org"><img src="./Icons/redux.png" alt="Redux" height="32" width="32"></a>
-<a target="_blank" href="https://aws.amazon.com/pt/what-is/restful-api/"><img src="./Icons/restful-api.png" alt="REST" height="32" width="32"></a>
-<a target="_blank" href="https://sass-lang.com"><img src="./Icons/sass.png" alt="sass" height="32" width="32"></a>
-<a target="_blank" href="https://pt.wikipedia.org/wiki/SQL"><img src="./Icons/sql.png" alt="SQL" height="32" width="32"></a>
-<a target="_blank" href="https://sqlite.org/"><img src="./Icons/sqlite.png" alt="SQLite" height="32" width="32"></a>
-<a target="_blank" href="https://swagger.io/"><img src="./Icons/swagger.png" alt="Swagger" height="32" width="32"></a>
-<a target="_blank" href="https://www.typescriptlang.org/"><img src="./Icons/typescript.png" alt="typescript" height="32" width="32"></a>
-<a target="_blank" href="https://www.vmware.com/"><img src="./Icons/vmware.png" alt="VMWare" height="32" width="32"></a>
-<a target="_blank" href="https://vuejs.org/"><img src="./Icons/vuejs.png" alt="Vue.js" height="32" width="32"></a>
-<a target="_blank" href="https://zustand-demo.pmnd.rs"><img src="./Icons/zustand.png" alt="Zustand" height="32" width="32"></a>
+**Professor — CEUMA University (2008–2009)**  
+Taught technology and programming courses.
 
+**Systems Analyst — Faculdade Atenas Maranhense (2005–2007)**  
+Application design, server maintenance, and software support.
 
+---
 
+### 🌍 Featured Public Projects
 
+- [**Deploy Program**](https://github.com/luis-portfolio/Deploy): Delphi/Alexandria app for binary compression and media optimization  
+- [**Node.js API**](https://github.com/luis-portfolio/Node.JS-Server-with-Express): Backend API for web and mobile apps  
+- [**Proxy API (JSON)**](https://github.com/luis-portfolio/Api-Node.JS-with-express-to-proxy-url): API for unrestricted JSON access  
+- [**Autofill Europass**](https://github.com/luis-portfolio/Autofill-Europass-with-Cypress): Europass automation using Cypress  
+- [**Image Upload Backend**](https://github.com/luis-portfolio/backdev): Image upload backend service  
+- [**Chronometer App**](https://github.com/luis-portfolio/Chronometer): Simple JS/HTML5/CSS3 timer app  
+- [**REST API with C# & Swagger**](https://github.com/luis-portfolio/Api-REST-C-Sharp): REST API using C# with documentation
 
-### 🎓Academic training, courses and events
+---
 
-* [Repo](https://drive.google.com/drive/folders/1dFcyyA1dNIoBrmbFs6IzWfiw6LLwBsmh?usp=drive_link)
-- 2009 - 🥇 Higher Education Course in Systems Analysis and Development from CEUMA University with honors.
-- 2014 - FLISOL 2014 Certificate
-- 2019 - Google DevFest 2019 Certificate
-- 2021 - Kubernets
-- 2022 - Webinar Certificate - QA Trends and Applications
-- 2022 - Lean Emotional WORKSHOP CERTIFICATE
-- 2022 - Pocket IT Congress, Unified Communications
-- 2022 - Jira and Concluence
-- 2022 - Learning - Certificate - How to Influence People
-- 2022 - Learning - Certificate - Building Trust
-- 2022 - Learning - Certificate - Discover Microsoft Project
-- 2022 - Learning - Certificate - Project Management Fundamentals, Change Requests
-- 2022 - Learning - Certificate - Leading Change
-- 2022 - Learning - Certificate - Interpersonal Communication Techniques
-- 2022 - Transfer English - A1 - Transfer Experience - Operational English
-- 2023 - Agile Scrum Master (ASM®) - SkillUP
-- 2023 - Alternative Agile
-- 2023 - ArduinoDay - Crescer Engeasier
-- 2023 - React JS Challenges - Interviews and technical tests
-- 2023 - Spanish - A2
-- 2023 - DEV VINCIT Event
-- 2023 - Special Edition Event 3rd HACKER SUMMIT 2023
-- 2023 - Exploring the synergy between RPA and GPT Chat
-- 2023 - Electronic Fraud, Crime and Investigation - VINCIT University
-- 2023 - Task Management and Productivity with Microsoft Tools
-- 2023 - LPIC-010-160 - Linux Essentials
-- 2023 - Don't change the quality of processes. Change the quality of the culture involved in the processes
-- 2023 - Personal Data Protection in Technology Development
-- 2023 - QA Culture
-- 2023 - Selenium Automation of Millions
-- 2023 - Transfer English - B1 - International English - Think and Speak
-- 2024 - Systems Administration and IT Infrastructure Services
-- 2024 - Basic Aspects of Technical Assistance
-- 2024 - BDD eXperience - Udemy
-- 2024 - Java Developer Training
-- 2024 - Laravel 11
-- 2024 - The Bits and Bytes of Computer Networks
-- 2024 - Computer Security Defends Against Digital Dark Arts
-- 2024 - Operating Systems and Becoming an Advanced User
-- 2024 - Google Information Technology Support
-- 2024 - TypeScript - 20 hours - RL System Certificate
-- 2025 - Advanced Delphi Techniques
+### 🎓 Education and Certifications
+- Higher Education Course in Systems Analysis and Development — CEUMA University, 2009 (Honors)  
+- **Certifications:** Agile Scrum Master (ASM®), TypeScript, Java Developer, QA Culture, RPA + GPT, Linux Essentials, BDD eXperience  
+- **Events:** Google DevFest, Hacker Summit, ArduinoDay, React JS Challenges, FLISOL, VINCIT, among others.
 
-### 🌱 A little bit of my story
+---
 
-   When I was 9 years old, I got an Odsey for Christmas, a video game that competed with the Atari, which had a keyboard on its body and a cartridge with text editing software. That was when my passion for technology was born. When I was around 12 years old, my cousins ​​got a TK85 microcomputer that used the TV as a monitor. To motivate us, my aunt bought the Input collection, where we began studying Basic and Assembly programming. Some time later, my uncle brought a cassette recorder from one of his business trips so that we could record programs, since at the time we didn't have hard drives or other storage units. Some time later, the CP500 was released, with a flexible floppy disk drive and a green screen. Inaccessible for my economic reality at the time
+### 🌱 My Story
+At age 9, a simple video game ignited my passion for technology.  
+By 12, I was programming in BASIC and Assembly on a TK85 microcomputer.  
+My first job came soon after a computer course — I was quickly invited to work in the same lab where I studied, helping others solve problems through software.  
+Since then, I’ve kept learning, building, and improving daily.
 
-I began my professional journey at Data Control, taking a computer course. After a month of the course, when the labs were opened, I dedicated all my free time to it. The course coordinator, Gilson, who happened to be the teacher of my class, asked me two questions: 1. If I would like to work at the company, and 2. If I knew anything about Windows 3.1. I answered, "Not yet, but as soon as I have access to the book, I will learn." So I started working and, given my hunger for learning, I was placed in the doubt center, where I had access to all the books for all the courses that the institution offered. The following week, I was monitoring my own class and answering questions from all the students in the courses in the institution. It was at this time that I began to undertake solving problems through the creation of software.
+---
 
-<br />
-<div>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=luisnt&show_icons=true&locale=en&layout=compact"
-       alt="Luis Caldas"
-       width="100%"
-       height="200px
-  "/>
+📊 *GitHub Stats*
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisnt&show_icons=true&locale=en&layout=compact" alt="Luis Caldas" width="100%" />
 </div>
