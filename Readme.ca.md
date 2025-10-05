@@ -61,7 +61,7 @@ Application design, server maintenance, and software support.
 ---
 
 ### 🎓 Education and Certifications
-- Bachelor in Systems Analysis and Development — CEUMA University, 2009 (Honors)  
+- Higher Education Course in Systems Analysis and Development — CEUMA University, 2009 (Honors)  
 - **Certifications:** Agile Scrum Master (ASM®), TypeScript, Java Developer, QA Culture, RPA + GPT, Linux Essentials, BDD eXperience  
 - **Events:** Google DevFest, Hacker Summit, ArduinoDay, React JS Challenges, FLISOL, VINCIT, among others.
 
