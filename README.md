@@ -74,8 +74,3 @@ My first job came soon after a computer course — I was quickly invited to work
 Since then, I’ve kept learning, building, and improving daily.
 
 ---
-
-📊 *GitHub Stats*
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisnt&show_icons=true&locale=en&layout=compact" alt="Luis Caldas" width="100%" />
-</div>
