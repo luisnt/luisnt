@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Luis Caldas
-💻 Senior Software Engineer • 🚀 Systems Integrator • ♻️ Focused on continuous improvement
+💻 Senior Software Developer Engineer • 🚀 Systems Integrator • ♻️ Focused on continuous improvement
 
 ---
 
