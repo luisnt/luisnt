@@ -73,9 +73,3 @@ By 12, I was programming in BASIC and Assembly on a TK85 microcomputer.
 My first job came soon after a computer course — I was quickly invited to work in the same lab where I studied, helping others solve problems through software.  
 Since then, I’ve kept learning, building, and improving daily.
 
----
-
-📊 *GitHub Stats*
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisnt&show_icons=true&locale=en&layout=compact" alt="Luis Caldas" width="100%" />
-</div>
