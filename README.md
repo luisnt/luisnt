@@ -57,8 +57,8 @@ Application design, server maintenance, and software support.
 - [**Image Upload Backend**](https://github.com/luis-portfolio/backdev): Image upload backend service  
 - [**Chronometer App**](https://github.com/luis-portfolio/Chronometer): Simple JS/HTML5/CSS3 timer app  
 - [**REST API with C# & Swagger**](https://github.com/luis-portfolio/Api-REST-C-Sharp): REST API using C# with documentation
-- [**Next.js with Zustand**](https://github.com/luisnt/Projeto-NextJs-Zustand): Next.js application demonstrating Zustand for centralized client-side state management and reactive UI updates.
-- [**LMS Claude**](https://github.com/luisnt/lms-claude): Rust-based terminal user interface (TUI) for launching Claude Code with locally hosted language models through LM Studio.
+- [**Next.js with Zustand**](https://github.com/luisnt/Projeto-NextJs-Zustand): Application for centralized state management and reactive UI updates.
+- [**LMS Claude**](https://github.com/luisnt/lms-claude): Rust-based terminal TUI for launching Claude Code with locally hosted language models through LM Studio.
 
 ---
 
