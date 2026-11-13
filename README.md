@@ -1,5 +1,10 @@
-## 👋 Hi, I'm Luis Caldas
-💻 Senior Software Developer Engineer • 🚀 Systems Integrator • ♻️ Focused on continuous improvement
+
+
+# [![Português](https://img.shields.io/badge/-PORTUGU%C3%8AS-FFFFFF?style=plastic&labelColor=FFFFFF&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDE2Ij48cGF0aCBmaWxsPSIjMDA5NzM5IiBkPSJNMCAwaDI0djE2SDB6Ii8%2BPHBhdGggZmlsbD0iI2ZmZGYwMCIgZD0ibTEyIDEgMTEgNy0xMSA3TDEgOHoiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjgiIHI9IjQuMiIgZmlsbD0iIzAwMjc3NiIvPjxwYXRoIGQ9Ik04IDcuM3E0LTEuNCA4IDEuNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9Ii41NSIvPjwvc3ZnPg%3D%3D&logoWidth=18)](README.pt.md) [![Español](https://img.shields.io/badge/-ESPA%C3%91OL-FFFFFF?style=plastic&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDE2Ij48cGF0aCBmaWxsPSIjYWExNTFiIiBkPSJNMCAwaDI0djE2SDB6Ii8%2BPHBhdGggZmlsbD0iI2YxYmYwMCIgZD0iTTAgNGgyNHY4SDB6Ii8%2BPHBhdGggZmlsbD0iI2FhMTUxYiIgZD0iTTYgNWgydjFINnptMCAxaDF2M0g2eiIvPjwvc3ZnPg%3D%3D&logoWidth=18)](README.es.md) [![English](https://img.shields.io/badge/-ENGLISH-FFFFFF?style=plastic&labelColor=FFFFFF&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDE2Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMCAwaDI0djE2SDB6Ii8%2BPHBhdGggZmlsbD0iI2IyMjIzNCIgZD0iTTAgMGgyNHYySDB6bTAgNGgyNHYySDB6bTAgNGgyNHYySDB6bTAgNGgyNHYySDB6Ii8%2BPHBhdGggZmlsbD0iIzNjM2I2ZSIgZD0iTTAgMGgxMXY5SDB6Ii8%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIgMmgxdjFIMnpNNSAyaDF2MUg1ek04IDJoMXYxSDh6TTMgNWgxdjFIM3pNNiA1aDF2MUg2ek0yIDdoMXYxSDJ6TTUgN2gxdjFINXpNOCA3aDF2MUg4eiIvPjwvc3ZnPg%3D%3D&logoWidth=18)](README.md)👋 Hi, I'm Luis Caldas 
+
+💻 Senior Software Engineer • 🚀 Systems Integration ♻️ Focused on continuous improvement • Automation & IoT
+
+I design and develop software solutions focused on systems integration, workflow automation, and reliable applications. My work spans frontend and backend development, APIs, databases, and connected systems.
 
 ---
 
